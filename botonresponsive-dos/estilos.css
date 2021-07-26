@@ -1,0 +1,21 @@
+body{
+margin: 0px;
+}
+header{
+ background: gold;
+ padding:15px;  
+}
+
+a.btnllamar{
+text-decoration: none;
+color: aqua;
+background: #222;
+padding: 10px 15px;
+border-radius:5px;
+transition: ease-in .4s;
+}
+a.btnllamar:hover{
+ background: red;
+    color:#fff;
+    
+}
